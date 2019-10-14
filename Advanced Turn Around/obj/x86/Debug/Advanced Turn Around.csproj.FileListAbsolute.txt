@@ -1,0 +1,16 @@
+D:\Advanced Turn Around\bin\Debug\Advanced Turn Around.exe.config
+D:\Advanced Turn Around\bin\Debug\Advanced Turn Around.exe
+D:\Advanced Turn Around\bin\Debug\Advanced Turn Around.pdb
+D:\Advanced Turn Around\bin\Debug\EnsoulSharp.Sandbox.dll
+D:\Advanced Turn Around\bin\Debug\EnsoulSharp.SDK.dll
+D:\Advanced Turn Around\bin\Debug\EnsoulSharp.Wrapper.dll
+D:\Advanced Turn Around\bin\Debug\SharpDX.Direct3D9.dll
+D:\Advanced Turn Around\bin\Debug\SharpDX.dll
+D:\Advanced Turn Around\bin\Debug\SPrediction.dll
+D:\Advanced Turn Around\bin\Debug\Newtonsoft.Json.dll
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.csprojAssemblyReference.cache
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.exe.config
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.csproj.CoreCompileInputs.cache
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.csproj.CopyComplete
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.exe
+D:\Advanced Turn Around\obj\x86\Debug\Advanced Turn Around.pdb
