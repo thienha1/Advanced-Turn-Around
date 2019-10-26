@@ -12,7 +12,7 @@ namespace Advanced_Turn_Around
     {
         private static void Main(string[] args)
         {
-            Game.OnTick += delegate
+            Game.OnUpdate += delegate
             {
                 var onGameLoadThread = new Thread(Game_OnGameLoad);
                 onGameLoadThread.Start();
@@ -36,7 +36,7 @@ namespace Advanced_Turn_Around
 
             Variable.Config.Attach();
 
-            Chat.Print(
+            Game.Print(
                 "<font color=\"#FF440A\">Advanced Turn Around# -</font> <font color=\"#FFFFFF\">Loaded</font>");
 
             AIBaseClient.OnProcessSpellCast += Obj_AI_Base_OnProcessSpellCast;
